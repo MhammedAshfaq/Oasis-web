@@ -95,7 +95,7 @@ const pageMarkup = `
             <div class="about-grid">
                 <div class="about-image-wrapper animate-on-scroll" data-animation="slideRight">
                     <div class="about-image">
-                        <img src="/assets/images/hero-bg.svg" alt="Oasis Unani Hospital Interior">
+                        <img src="/assets/images/hero-bg.png" alt="Oasis Unani Hospital Interior">
                         <div class="about-image-badge">
                             <span class="badge-number">4+</span>
                             <span class="badge-text">Years of<br>Excellence</span>
