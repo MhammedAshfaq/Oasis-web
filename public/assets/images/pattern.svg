@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Decorative pattern">
+  <rect width="1200" height="300" fill="#0a1f14"/>
+  <g fill="none" stroke="#c9a84c" stroke-width="1.5" opacity="0.35">
+    <path d="M100 150h100m-50-50v100"/>
+    <path d="M300 150h100m-50-50v100"/>
+    <path d="M500 150h100m-50-50v100"/>
+    <path d="M700 150h100m-50-50v100"/>
+    <path d="M900 150h100m-50-50v100"/>
+    <path d="M1100 150h100m-50-50v100"/>
+  </g>
+</svg>
